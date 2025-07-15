@@ -8,8 +8,8 @@ profile:
     version: 4.0.0
     author: "Manuel Caballero"
   bio:
-    description: "A curious little one..."
-    goal: "Become a startup founder someday..."
+    description: "Order from chaos, then chaos from order. Repeat."
+    goal: "Become a startup founder."
   skills:
     programming: [Rust, JS/TS, Java, Dart, C++, PHP]
     frameworks: [Tauri, React, Next, Laravel, Express, Nest]
