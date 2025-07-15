@@ -11,7 +11,7 @@ profile:
     description: "Order from chaos, then chaos from order. Debug & Repeat."
     goal: "Become a startup founder."
   skills:
-    programming: [Rust, JS/TS, Java, Dart, C++, PHP]
+    languages: [Rust, JS/TS, Java, Dart, C++, PHP]
     frameworks: [Tauri, React, Next, Flutter, Laravel, Express]
     os: [ArchLinux, Fedora, Windows]
   interests: [coding, drawing]
