@@ -10,11 +10,11 @@ profile:
   bio:
     description: "Order from chaos, then chaos from order. Debug & Repeat."
     goal: "Become a startup founder."
+  interests: ["coding", "drawing"]
   skills:
     frameworks: ["Tauri", "React", "Next", "Flutter", "Express"]
     languages: ["Rust", "JS/TS", "Java", "Dart", "C++", "PHP"]
     os: ["ArchLinux", "Fedora", "Windows"]
-  interests: ["coding", "drawing"]
 </pre>
       </td>
       <td style="width: 30%;">
