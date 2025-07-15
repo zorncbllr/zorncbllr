@@ -12,7 +12,7 @@ profile:
     goal: "Become a startup founder."
   skills:
     programming: [Rust, JS/TS, Java, Dart, C++, PHP]
-    frameworks: [Tauri, React, Next, Laravel, Express, Nest]
+    frameworks: [Tauri, React, Next, Flutter, Laravel, Express]
     os: [ArchLinux, Fedora, Windows]
   interests: [coding, drawing]
 </pre>
