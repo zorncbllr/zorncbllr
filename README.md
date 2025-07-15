@@ -13,7 +13,6 @@ profile:                                                                        
     frameworks: [Tauri, React, Next, Laravel, Express, Nest]                    |   ⠈⠈⣿⡿⢿⣿⣿⣷⣿⣿⡿⢿⣿⣿⣁⡀⠀⠀⠉⢻⣿⣧
     os: [ArchLinux, Fedora, Windows]                                            |   ⠀⢀⡟⠀⠀⠉⠛⠙⠻⢿⣦⡀⠙⠛⠯⠤⠄⠀⠀⠈⠈⣿                              ⠀⠀⠀⠀⠀⠀
   interests: [coding, drawing]                                                  |   ⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⡆⠀⠀⠀⠀⠀⠀⠀⢀⠟
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
 </div>
