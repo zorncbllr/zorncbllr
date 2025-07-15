@@ -11,10 +11,10 @@ profile:
     description: "Order from chaos, then chaos from order. Debug & Repeat."
     goal: "Become a startup founder."
   skills:
-    frameworks: [Tauri, React, Next, Flutter, Laravel, Express]
-    languages: [Rust, JS/TS, Java, Dart, C++, PHP]
-    os: [ArchLinux, Fedora, Windows]
-  interests: [coding, drawing]
+    frameworks: ["Tauri", "React", "Next", "Flutter", "Laravel", "Express"]
+    languages: ["Rust", "JS/TS", "Java", "Dart", "C++", "PHP"]
+    os: ["ArchLinux", "Fedora", "Windows"]
+  interests: ["coding", "drawing"]
 </pre>
       </td>
       <td style="width: 30%;">
