@@ -1,5 +1,3 @@
-<div align="center">
-
 ```
 profile:                                                                        |   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⡋⠁⠀⠀⠀⠀⢀⣀⣀⡀
   meta:                                                                         |   ⠀⠀⠀⠀⠀⠠⠒⣶⣶⣿⣿⣷⣾⣿⣿⣿⣿⣛⣋⣉⠀⠀
@@ -14,5 +12,3 @@ profile:                                                                        
     os: [ArchLinux, Fedora, Windows]                                            |   ⠀⢀⡟⠀⠀⠉⠛⠙⠻⢿⣦⡀⠙⠛⠯⠤⠄⠀⠀⠈⠈⣿                              ⠀⠀⠀⠀⠀⠀
   interests: [coding, drawing]                                                  |   ⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⡆⠀⠀⠀⠀⠀⠀⠀⢀⠟
 ```
-
-</div>
