@@ -14,7 +14,7 @@ profile:
     frameworks: ["Tauri", "React", "Next", "Flutter", "Laravel", "Express"]
     languages: ["Rust", "JS/TS", "Java", "Dart", "C++", "PHP"]
     os: ["ArchLinux", "Fedora", "Windows"]
-  interests: ["coding", "drawing"]
+  interests: ["Coding", "Drawing"]
 </pre>
       </td>
       <td style="width: 30%;">
