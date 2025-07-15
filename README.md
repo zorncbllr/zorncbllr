@@ -8,7 +8,7 @@ profile:
     version: 4.0.0
     author: "Manuel Caballero"
   bio:
-    description: "Order from chaos, then chaos from order. Repeat."
+    description: "Order from chaos, then chaos from order. Debug and Repeat."
     goal: "Become a startup founder."
   skills:
     programming: [Rust, JS/TS, Java, Dart, C++, PHP]
