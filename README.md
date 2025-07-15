@@ -9,6 +9,6 @@ profile:                                                                        
   skills:                                                                       |   ⣿⣿⣿⣿⠹⣇⠀⠀⠀⠀⢀⡀⠀⢀⡙⢷⣦⣄⡀⠀⠀⠀
     programming: [Rust, JS/TS, Java, Dart, C++, PHP]                            |   ⣿⢿⣿⣿⣷⣦⠤⠤⠀⠀⣠⣿⣶⣶⣿⣿⣿⣿⣿⣷⣄⠀
     frameworks: [Tauri, React, Next, Laravel, Express, Nest]                    |   ⠈⠈⣿⡿⢿⣿⣿⣷⣿⣿⡿⢿⣿⣿⣁⡀⠀⠀⠉⢻⣿⣧
-    os: [ArchLinux, Fedora, Windows]                                            |   ⠀⢀⡟⠀⠀⠉⠛⠙⠻⢿⣦⡀⠙⠛⠯⠤⠄⠀⠀⠈⠈⣿                              ⠀⠀⠀⠀⠀⠀
+    os: [ArchLinux, Fedora, Windows]                                            |   ⠀⢀⡟⠀⠀⠉⠛⠙⠻⢿⣦⡀⠙⠛⠯⠤⠄⠀⠀⠈⠈⣿
   interests: [coding, drawing]                                                  |   ⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⡆⠀⠀⠀⠀⠀⠀⠀⢀⠟
 ```
