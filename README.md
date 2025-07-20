@@ -1,8 +1,10 @@
 <div align="center" style="width: 100%;">
-  <table style="width: 100%;">
+  <table style="width: 100%; border: none;">
     <tr>
-      <td style="width: 70%;">
-<pre style="width: 100%; margin: 0; padding: 10px; overflow: auto; background: #1e1e1e; border-radius: 6px; color: #d4d4d4;" lang="yaml">
+      <td style="width: 70%; border: none;">
+<pre style="width: 100%; margin: 0; padding: 10px; overflow: auto; 
+           background-color: #0D1117; color: #C9D1D9; 
+           border-radius: 6px; border: 1px solid #30363D;" lang="yaml">
 profile:
   meta:
     version: 4.0.0
@@ -17,8 +19,8 @@ profile:
     os: ["ArchLinux", "Fedora", "Windows"]
 </pre>
       </td>
-      <td style="width: 30%;">
-<pre style="margin: 0; padding: 10px; color: #d4d4d4;">
+      <td style="width: 30%; border: none; background-color: #0D1117; border-radius: 6px; border: 1px solid #30363D;">
+<pre style="margin: 0; padding: 10px; color: #C9D1D9; background-color: transparent;">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⡋⠁⠀⠀⠀⠀⢀⣀⣀⡀
 ⠀⠀⠀⠀⠀⠠⠒⣶⣶⣿⣿⣷⣾⣿⣿⣿⣿⣛⣋⣉⠀⠀
 ⠀⠀⠀⠀⢀⣤⣞⣫⣿⣿⣿⡻⢿⣿⣿⣿⣿⣿⣦⡀⠀⠀
@@ -36,6 +38,7 @@ profile:
     </tr>
   </table>
 </div>
+
 <hr >
 
 <div align="center" style="width: 100%;">
