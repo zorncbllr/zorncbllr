@@ -18,7 +18,7 @@ profile:
 </pre>
       </td>
       <td style="width: 30%;">
-<pre style="margin: 0; padding: 10px; color: red;">
+<pre style="margin: 0; padding: 10px;">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⡋⠁⠀⠀⠀⠀⢀⣀⣀⡀
 ⠀⠀⠀⠀⠀⠠⠒⣶⣶⣿⣿⣷⣾⣿⣿⣿⣿⣛⣋⣉⠀⠀
 ⠀⠀⠀⠀⢀⣤⣞⣫⣿⣿⣿⡻⢿⣿⣿⣿⣿⣿⣦⡀⠀⠀
@@ -41,6 +41,6 @@ profile:
 
 <div align="center" style="width: 100%;">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=zorncbllr&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=zorncbllr&theme=radical)
 
 </div>
