@@ -39,6 +39,4 @@ profile:
 
 <hr />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zorncbllr&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=zorncbllr&theme=tokyonight)
