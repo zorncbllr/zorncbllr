@@ -12,8 +12,8 @@ profile:
     goal: "Become a startup founder."
   interests: ["coding", "drawing"]
   skills:
-    frameworks: ["Tauri", "React", "Next", "Flutter", "Express"]
-    languages: ["Rust", "JS/TS", "Java", "Dart", "C++", "PHP"]
+    frameworks: ["Tauri", "React", "Next", "Flutter", "Express", "Dotnet"]
+    languages: ["Rust", "JS/TS", "Java", "Dart", "C++", "PHP", "C#"]
     os: ["ArchLinux", "Fedora", "Windows"]
 </pre>
       </td>
