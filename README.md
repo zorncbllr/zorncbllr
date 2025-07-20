@@ -37,9 +37,9 @@ profile:
   </table>
 </div>
 
-<hr >
+<div style="width: 100%; height: 1px; "></div>
 
-<div align="center" style="width: 100%;">
+<div align="center" style="width: 100%; background-color: #f6f8fa;">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=zorncbllr&theme=dark)
 
