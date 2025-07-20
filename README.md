@@ -1,12 +1,8 @@
 <div align="center" style="width: 100%;">
-  <table style="width: 100%; border: none;">
+  <table style="width: 100%;">
     <tr>
-      <td style="width: 70%; border: none;">
-<pre style="width: 100%; margin: 0; padding: 10px; overflow: auto; 
-           background-color: var(--color-canvas-default); 
-           color: var(--color-fg-default);
-           border-radius: 6px; 
-           border: 1px solid var(--color-border-default);" lang="yaml">
+      <td style="width: 70%;">
+<pre style="width: 100%; margin: 0; padding: 10px; overflow: auto; background: #f6f8fa; border-radius: 6px;" lang="yaml">
 profile:
   meta:
     version: 4.0.0
@@ -21,13 +17,8 @@ profile:
     os: ["ArchLinux", "Fedora", "Windows"]
 </pre>
       </td>
-      <td style="width: 30%; border: none; 
-                background-color: var(--color-canvas-default); 
-                border-radius: 6px; 
-                border: 1px solid var(--color-border-default);">
-<pre style="margin: 0; padding: 10px; 
-            color: var(--color-fg-default); 
-            background-color: transparent;">
+      <td style="width: 30%;">
+<pre style="margin: 0; padding: 10px;">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⡋⠁⠀⠀⠀⠀⢀⣀⣀⡀
 ⠀⠀⠀⠀⠀⠠⠒⣶⣶⣿⣿⣷⣾⣿⣿⣿⣿⣛⣋⣉⠀⠀
 ⠀⠀⠀⠀⢀⣤⣞⣫⣿⣿⣿⡻⢿⣿⣿⣿⣿⣿⣦⡀⠀⠀
