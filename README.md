@@ -36,3 +36,8 @@ profile:
     </tr>
   </table>
 </div>
+
+<hr />
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zorncbllr)
+
