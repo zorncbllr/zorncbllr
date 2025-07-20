@@ -2,7 +2,7 @@
   <table style="width: 100%;">
     <tr>
       <td style="width: 70%;">
-<pre style="width: 100%; margin: 0; padding: 10px; overflow: auto; background: #f6f8fa; border-radius: 6px;" lang="yaml">
+<pre style="width: 100%; margin: 0; padding: 10px; overflow: auto; background: #1e1e1e; border-radius: 6px; color: #d4d4d4;" lang="yaml">
 profile:
   meta:
     version: 4.0.0
@@ -18,7 +18,7 @@ profile:
 </pre>
       </td>
       <td style="width: 30%;">
-<pre style="margin: 0; padding: 10px;">
+<pre style="margin: 0; padding: 10px; color: #d4d4d4;">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⡋⠁⠀⠀⠀⠀⢀⣀⣀⡀
 ⠀⠀⠀⠀⠀⠠⠒⣶⣶⣿⣿⣷⣾⣿⣿⣿⣿⣛⣋⣉⠀⠀
 ⠀⠀⠀⠀⢀⣤⣞⣫⣿⣿⣿⡻⢿⣿⣿⣿⣿⣿⣦⡀⠀⠀
@@ -36,7 +36,6 @@ profile:
     </tr>
   </table>
 </div>
-
 <hr >
 
 <div align="center" style="width: 100%;">
