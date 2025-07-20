@@ -37,6 +37,10 @@ profile:
   </table>
 </div>
 
-<hr />
+<hr >
+
+<div align="center" style="width: 100%;">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=zorncbllr&theme=tokyonight)
+
+</div>
