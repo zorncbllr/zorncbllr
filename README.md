@@ -18,7 +18,7 @@ profile:
 </pre>
       </td>
       <td style="width: 30%;">
-<pre style="margin: 0; padding: 10px;">
+<pre style="margin: 0; padding: 10px; color: red;">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⡋⠁⠀⠀⠀⠀⢀⣀⣀⡀
 ⠀⠀⠀⠀⠀⠠⠒⣶⣶⣿⣿⣷⣾⣿⣿⣿⣿⣛⣋⣉⠀⠀
 ⠀⠀⠀⠀⢀⣤⣞⣫⣿⣿⣿⡻⢿⣿⣿⣿⣿⣿⣦⡀⠀⠀
