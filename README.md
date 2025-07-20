@@ -41,6 +41,6 @@ profile:
 
 <div align="center" style="width: 100%;">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=zorncbllr&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com/?user=zorncbllr&theme=onedark)
 
 </div>
