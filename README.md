@@ -39,5 +39,4 @@ profile:
 
 <hr />
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zorncbllr)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zorncbllr&show_icons=true&theme=tokyonight)
