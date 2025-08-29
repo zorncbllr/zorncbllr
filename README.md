@@ -1,4 +1,4 @@
-<div align="center" style="width: 100%;">
+<div style="width: 100%;">
   <table style="width: 100%;">
     <tr>
       <td style="width: 70%;">
@@ -16,9 +16,6 @@ profile:
     languages: ["Rust", "JS/TS", "Java", "Dart", "C++", "PHP", "C#"]
     os: ["ArchLinux", "Fedora", "Windows"]
 </pre>
-
-      </td>
-      <td style="width: 30%;">
 <pre style="margin: 0; padding: 10px;">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⡋⠁⠀⠀⠀⠀⢀⣀⣀⡀
 ⠀⠀⠀⠀⠀⠠⠒⣶⣶⣿⣿⣷⣾⣿⣿⣿⣿⣛⣋⣉⠀⠀
