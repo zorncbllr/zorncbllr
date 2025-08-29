@@ -2,7 +2,7 @@
   <table style="width: 100%;">
     <tr>
       <td style="width: 70%;">
-<pre style="width: 100%; margin: 0; padding: 10px; overflow: auto; background: #f6f8fa; border-radius: 6px;" lang="yaml" align="start">
+<pre style="width: 100%; margin: 0; padding: 10px; overflow: auto; background: #f6f8fa; border-radius: 6px;" lang="yaml">
 profile:
   meta:
     version: 4.0.0
