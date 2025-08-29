@@ -1,7 +1,8 @@
 <div style="width: 100%;">
   <table style="width: 100%;">
     <tr>
-      <td style="width: 70%;">
+      <!-- Left: YAML block -->
+      <td style="width: 60%; vertical-align: top;">
 <pre style="width: 100%; margin: 0; padding: 10px; overflow: auto; background: #f6f8fa; border-radius: 6px; text-align: left;" lang="yaml">
 profile:
   meta:
@@ -16,7 +17,11 @@ profile:
     languages: ["Rust", "JS/TS", "Java", "Dart", "C++", "PHP", "C#"]
     os: ["ArchLinux", "Fedora", "Windows"]
 </pre>
-<pre style="margin: 0; padding: 10px;">
+      </td>
+
+      <!-- Right: ASCII art -->
+      <td style="width: 40%; vertical-align: top; text-align: center;">
+<pre style="margin: 0; padding: 10px; text-align: left;">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⡋⠁⠀⠀⠀⠀⢀⣀⣀⡀
 ⠀⠀⠀⠀⠀⠠⠒⣶⣶⣿⣿⣷⣾⣿⣿⣿⣿⣛⣋⣉⠀⠀
 ⠀⠀⠀⠀⢀⣤⣞⣫⣿⣿⣿⡻⢿⣿⣿⣿⣿⣿⣦⡀⠀⠀
@@ -36,7 +41,6 @@ profile:
 </div>
 
 <div align="center" style="width: 100%; background-color: #f6f8fa;">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=zorncbllr&theme=dark)
-
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=zorncbllr&theme=dark" alt="GitHub Streak"/>
 </div>
