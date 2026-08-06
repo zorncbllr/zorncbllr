@@ -1,22 +1,13 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=full-stack+developer;terminal+%3E+everything+else;building+in+rust%2C+ts+%26+vibes" alt="Typing SVG"/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,nodejs,express,bun,laravel,fastapi,py,java,cpp,cs,dotnet,rust,php,dart,flutter&theme=dark&perline=10" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=tauri,prisma,postgres,mysql,mongodb,firebase,supabase,docker,nginx,cloudflare,fedora,arch,figma,vscode,jupyter,git,spring,nestjs,neovim,zsh&theme=dark&perline=10" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCode-1A1A1A?style=flat&logo=terminal&logoColor=white"/>
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white"/>
-<img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat&logo=inertia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat&logo=livewire&logoColor=white"/>
-<img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpinedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/NvChad-1E1E2E?style=flat&logo=neovim&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"/>
-
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,py,java,cs,rust,cpp,php,dart&theme=dark&perline=10" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,laravel,fastapi,spring,nestjs,dotnet,flutter&theme=dark&perline=10" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,prisma,docker,nginx,cloudflare,git&theme=dark&perline=10" />
+<br/>
+<img height="150" src="https://github-stats-extended.vercel.app/api?username=zorncbllr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
+<img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zorncbllr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9"/>
 </div>
