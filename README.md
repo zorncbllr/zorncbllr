@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=tauri,prisma,postgres,mysql,mongodb,firebase,supabase,docker,nginx,cloudflare,fedora,arch,figma,vscode,jupyter,git,spring,nestjs&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=tauri,prisma,postgres,mysql,mongodb,firebase,supabase,docker,nginx,cloudflare,fedora,arch,figma,vscode,jupyter,git,spring,nestjs,neovim,zsh&theme=dark&perline=10" />
 
 <br/><br/>
 
@@ -16,5 +16,6 @@
 <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white"/>
 <img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white"/>
 <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/NvChad-1E1E2E?style=flat-square&logo=neovim&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 </div>
