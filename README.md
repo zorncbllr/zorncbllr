@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=full-stack+developer;terminal+%3E+everything+else;building+in+rust%2C+ts+%26+vibes" alt="Typing SVG"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,nodejs,express,bun,laravel,fastapi,py,java,cpp,rust,php,dart,flutter&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,nodejs,express,bun,laravel,fastapi,py,java,cpp,cs,dotnet,rust,php,dart,flutter&theme=dark&perline=10" />
 
 <br/><br/>
 
@@ -18,4 +18,5 @@
 <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/NvChad-1E1E2E?style=flat-square&logo=neovim&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+
 </div>
