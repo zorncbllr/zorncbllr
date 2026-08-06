@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=full-stack+developer;terminal+%3E+everything+else;building+in+rust%2C+ts+%26+vibes" alt="Typing SVG"/>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=D4D4D8&center=true&vCenter=true&width=650&lines=full-stack+developer;rust+%2F+typescript+%2F+python;building+things+that+ship" alt="Typing SVG"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=ts,js,nodejs,py,java,cs,rust,cpp,php,dart&theme=dark&perline=10" />
 <br/>
