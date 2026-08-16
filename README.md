@@ -24,4 +24,9 @@
   <a href="https://openai.com"><img src="image/README/icons/openai.svg" alt="OpenAI" width="24" style="vertical-align:middle"/></a>
   <a href="https://www.langchain.com"><img src="image/README/icons/langchain.svg" alt="LangChain" width="24" style="vertical-align:middle"/></a>
   <a href="https://www.python.org"><img src="image/README/icons/python.svg" alt="Python" width="24" style="vertical-align:middle"/></a>
+  <a href="https://www.php.net"><img src="image/README/icons/php.svg" alt="PHP" width="24" style="vertical-align:middle"/></a>
+  <a href="https://www.rust-lang.org"><img src="image/README/icons/rust.svg" alt="Rust" width="24" style="vertical-align:middle"/></a>
+  <a href="https://tauri.app"><img src="image/README/icons/tauri.svg" alt="Tauri" width="24" style="vertical-align:middle"/></a>
+  <a href="https://www.java.com"><img src="image/README/icons/java.svg" alt="Java" width="24" style="vertical-align:middle"/></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="image/README/icons/springboot.svg" alt="Spring Boot" width="24" style="vertical-align:middle"/></a>
 </div>
