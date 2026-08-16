@@ -3,7 +3,6 @@
   <br/>
   <a href="https://www.w3.org/html"><img src="image/README/icons/html5.svg" alt="HTML5" width="24" style="vertical-align:middle"/></a>
   <a href="https://www.w3.org/Style/CSS/"><img src="image/README/icons/css3.svg" alt="CSS3" width="24" style="vertical-align:middle"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="image/README/icons/javascript.svg" alt="JavaScript" width="24" style="vertical-align:middle"/></a>
   <a href="https://www.typescriptlang.org"><img src="image/README/icons/typescript.svg" alt="TypeScript" width="24" style="vertical-align:middle"/></a>
   <a href="https://tailwindcss.com"><img src="image/README/icons/tailwindcss.svg" alt="Tailwind CSS" width="24" style="vertical-align:middle"/></a>
   <a href="https://react.dev"><img src="image/README/icons/react.svg" alt="React" width="24" style="vertical-align:middle"/></a>
